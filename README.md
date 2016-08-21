@@ -4,6 +4,8 @@ This project lets you run the
 [downloadable version](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
 of [Amazon DynamoDB](https://aws.amazon.com/documentation/dynamodb/) in Docker.
 
+See [hilverd/dynamodb](https://hub.docker.com/r/hilverd/dynamodb/) on Docker Hub.
+
 ## Usage
 
 ```
